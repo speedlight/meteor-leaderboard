@@ -1,3 +1,5 @@
+![alt tag](http://imageshack.com/a/img540/8633/hIiV25.jpg)
+
 Meteor app based on meteortips.com tutorial
 I added semantic:ui-css package.
 
