@@ -1,0 +1,47 @@
+body {
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    padding: 0;
+    margin: 3em 0;
+}
+.container {
+    max-width: 40%;
+    margin: 0 auto;
+}
+.title {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.player {
+    position: relative;
+    list-style: none;
+    margin-top: 5px;
+    padding-bottom: 40px;
+    font-size: 1.3em;
+    border-left: 4px solid white;
+    vertical-align: middle;
+}
+.name {
+    float: left;
+    padding-left: 5px;
+}
+.score {
+    float: right;
+    padding-right: 5px;
+    font-weight: bold;
+}
+.selected {
+    border-left: #eb5f3a 4px solid;
+}
+.points {
+    padding-left: 24%;
+    margin-bottom: 10px;
+}
+.add-remove {
+    padding-left: 32%;
+}
+#login-buttons {
+    display: block;
+}
